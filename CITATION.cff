@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Guilherme
+    given-names: Oliveira Barbosa
+    orcid: https://orcid.org/0000-0002-5881-0896
+title: CQMED - LIC construct and primer design tool
+version: v1.0
+date-released: 2023-08-22
+
+<a href="https://doi.org/10.5281/zenodo.8272379"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8272379.svg" alt="DOI"></a>
