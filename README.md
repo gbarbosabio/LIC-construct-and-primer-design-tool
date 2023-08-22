@@ -4,7 +4,11 @@ This is a repository containing a Shiny APP "LIC construct and primer design too
 
 This app can be loaded directly in you machine using the following script:
 
-
+  ```
+if (!require(shiny)) install.packages('shiny')
+library(shiny)
+runGitHub("Gerador_metadados", "gbarbosabio")
+```
 
 if you use the tool, please cite:
 
