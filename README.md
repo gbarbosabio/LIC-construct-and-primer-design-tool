@@ -7,7 +7,7 @@ This app can be loaded directly in you machine using the following script:
   ```
 if (!require(shiny)) install.packages('shiny')
 library(shiny)
-runGitHub("Gerador_metadados", "gbarbosabio")
+runGitHub("LIC-construct-and-primer-design-tool", "gbarbosabio")
 ```
 
 if you use the tool, please cite:
